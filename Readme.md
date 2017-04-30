@@ -1,3 +1,3 @@
-# React Typescript Boilerplate
+# Weather App Icon
 
-A starter project with a setup I've found helpful.
+Sample react app - Fetches weather info for current location (IP based)
